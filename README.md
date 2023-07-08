@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rizon</h1>
 <h3 align="center">Professional Web Designer</h3>
+<h4 align="center">WordPress Expert</h4>
+<h4 align="center">ELEMENTOR Expert</h4>
+<h4 align="center">Responsive Web Designer</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzimrizon&label=Profile%20views&color=0e75b6&style=flat" alt="tanzimrizon" /> </p>
 
