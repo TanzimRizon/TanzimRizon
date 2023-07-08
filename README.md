@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **Github**
 
-- 💬 Ask me about **WEB Desgin,Elementor,JS**
+- 💬 Ask me about **WEB Design,Elementor,JS**
 
 - 📫 How to reach me **frontenddesign42@gmail**
 
